@@ -9,14 +9,15 @@ The seller side of this project sits inside an active **Chapter 11** context:
 
 - **In re Cakmak, Case No. 26-11521-VFP (Bankr. D.N.J., Judge Papalia)** — individual Chapter 11, with a related case (B&BC Estates LLC, 26-11838) and the SBB Shipping Ch.7 estate (24-22278, Trustee Hook). A contested matter with Third Paramus Associates about the Northvale inventory was heard **August 25, 2026**; the Trustee has asked for an accounting and escrow of sale proceeds; the Debtor's sworn Supplemental Certification states that as of its date **no items were sold for a price and there are no sale proceeds**.
 
-Consequences for this sales program — these are process requirements, not options:
+**Ownership structure (per the principal, 2026-08-27):** the inventory was sold last year to **Milhurst Mills** (exact legal entity name to confirm — records also show "Millhurst Trading LLC" / "MILHURST APPLIANCES"), and the principal will now market and sell it **on Milhurst's behalf as its sales agent**. That structure is consistent with the sworn record (furniture sold to a liquidator in March 2025; BZ slabs transferred to Millhurst in connection with the Northvale move-out) — and precisely because 3PA alleges sham transfers, the paperwork has to prove the agency is real. Process requirements, not options:
 
-1. **Nothing is sold, transferred, or bound by offer until bankruptcy counsel (Leonard S. Singer, Zazella & Singer) clears it** — per asset class and per selling entity. The user's own priority plan already states legal files get attorney/CPA sign-off.
-2. **Entity discipline.** Slabs are of record as **BZ International Trade LLC** property; equipment likewise BZ; appliances are marketed under **Millhurst**; mining licenses belong to **Ultima Ltd. Şti. (Türkiye)**. Every listing, invoice, and receipt must be issued by the correct entity, and proceeds must land in that entity's account — no cash deals, no commingling. The Debtor's membership interests in these entities are disclosed in his schedules, and 3PA is already alleging the entities are asset-shielding vehicles: clean paper and traceable proceeds are the best rebuttal.
-3. **Valuation consistency.** Marketing materials claiming ~$1.0–1.7M of inventory value will be discoverable. Where sworn schedules carry different values (e.g., the ~$35k scheduled value of the BZ membership interest), counsel must reconcile/contextualize *before* materials go out.
-4. **Sales outside the ordinary course of business by the Debtor or a debtor entity require court approval (11 U.S.C. § 363).** For non-debtor entities, § 363 does not directly apply, but given the pending alter-ego allegations and the Trustee's escrow request, treat every bulk sale as if it will be examined: written contracts, market-tested prices, documented marketing effort. An open, well-documented marketing process *helps* the case — it demonstrates value maximization, not concealment.
-5. **Mining:** as of late June 2026 the 2026 license & rehabilitation fees were unpaid and licenses faced cancellation (Halkbank blocked-funds request). **Verify each license is alive before marketing anything.**
-6. Emails are **drafts only** — nothing is sent until items 1–5 are satisfied.
+1. **Written marketing/agency agreement with Milhurst before the first email goes out** — signed by Milhurst's principal, listing the exact asset schedule Milhurst owns (attach the master inventory), the commission/fee terms, and the authority to quote prices. Counsel (Leonard S. Singer, Zazella & Singer) reviews it first.
+2. **Milhurst is the seller of record on everything.** Listings, catalogs, quotes, invoices, contracts and receipts in Milhurst's name; **all sale proceeds go directly to Milhurst's bank account** — never through the Debtor's or another entity's account, never cash.
+3. **The agent's compensation is post-petition income of the Debtor** (11 U.S.C. § 1115) — it must be paid transparently (from Milhurst, documented) and disclosed in the Monthly Operating Reports. This is the piece the U.S. Trustee and 3PA will look at first.
+4. **Consistency with the sworn record.** The Supplemental Certification states nothing was sold for a price in 2026 and there are no proceeds *to date*; marketing text must present the goods as **Milhurst's inventory** (never "my/our inventory"), and transfer documentation (2025 furniture sale, the slab transfer terms) should be assembled now — an accounting may be ordered and buyers may ask for proof of title.
+5. **Confirm per category what Milhurst actually owns.** Slabs/furniture/appliances appear Milhurst-side; equipment and Ausavina stock need confirmation; **mining licenses are Ultima Ltd. Şti. property (Türkiye) and are NOT part of the Milhurst mandate** — separate authority needed there.
+6. **Mining:** as of late June 2026 the 2026 license & rehabilitation fees were unpaid and licenses faced cancellation (Halkbank blocked-funds request). **Verify each license is alive before marketing anything.**
+7. Emails are **drafts only** — nothing is sent until items 1–6 are satisfied. A documented, open marketing process run properly for Milhurst *helps* rebut the asset-concealment narrative; a sloppy one hands 3PA its best exhibit.
 
 ---
 
@@ -53,7 +54,7 @@ Sources: `Inventory of Slabs and Tiles.xlsx` (Jan-2025 list; its own footer tota
 ## 4. 30-day execution plan
 
 **Week 1 — clearance & packaging (this week / Sunday session)**
-- Counsel sign-off matrix (who may sell what, proceeds account per entity) — *gating item*.
+- **Milhurst agency agreement signed + counsel sign-off** (asset schedule, commission terms, proceeds account) — *gating item*.
 - Physical verification: equipment on-hand list + hours; Ausavina stock count; furniture count; slab spot-check vs list; appliance model-tag photos.
 - Finalize catalogs (add photos from Drive folders; print HTML → PDF). Confirm sender identities/phones.
 - Verify TBV emails for A-priority prospects (LinkedIn/company sites — manual, from your accounts).
@@ -82,4 +83,4 @@ Sources: `Inventory of Slabs and Tiles.xlsx` (Jan-2025 list; its own footer tota
 3. Mining sites 11–13 details from the full ULTIMA PDF; license fee status per site.
 4. Wall panels: **no inventory file found in Drive** — needs list/photos or drop the category.
 5. TBV contact emails on the prospect list; assign owner per prospect.
-6. Which entity signs each catalog (BZ / Millhurst / Ausavina US) — with counsel.
+6. Exact Milhurst legal entity name (Milhurst Mills vs Millhurst Trading LLC) + signed agency agreement + confirmation of which categories Milhurst owns (equipment? Ausavina stock?) — with counsel.

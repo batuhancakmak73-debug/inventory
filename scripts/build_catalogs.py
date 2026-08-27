@@ -23,9 +23,10 @@ tr:nth-child(even) td{background:#f5f8fb}
 @media print{body{margin:10mm}}
 """
 
-DISCLAIMER = ("Preliminary draft for internal review. Quantities subject to physical verification. "
+DISCLAIMER = ("Offered by Milhurst Mills (seller of record); presented by its authorized sales agent. "
+              "Preliminary draft for internal review. Quantities subject to physical verification. "
               "Prices subject to change and final confirmation; nothing herein constitutes a binding offer. "
-              "All transactions subject to seller's counsel approval.")
+              "All payments to Milhurst Mills only. All transactions subject to seller's counsel approval.")
 
 
 def read(name):
@@ -70,7 +71,7 @@ for g, items in groups.items():
 body.append(f"<p><b>Total pieces: {grand_pcs:,}</b> &nbsp;|&nbsp; Full-lot and category-lot offers welcome — ask for bulk pricing.</p>")
 (OUT / "slab_catalog.html").write_text(
     page("Porcelain, Quartz & Marble Slab Inventory — Bulk Sale Catalog",
-         "Premium European porcelain and quartz slabs — Spain, Italy, Germany (Quartzforms), Vietnam, India. New, first-quality, warehouse-stored.",
+         "Offered by Milhurst Mills. Premium European porcelain and quartz slabs — Spain, Italy, Germany (Quartzforms), Vietnam, India. New, first-quality, warehouse-stored.",
          "".join(body)))
 
 # ------------------------------------------------------------------ equipment
@@ -88,7 +89,7 @@ for r in rows:
 body.append("</table><p>Volume discounts for multi-unit and full-lot purchases. Inspection welcome by appointment (Northern NJ).</p>")
 (OUT / "equipment_catalog.html").write_text(
     page("Forklift & Warehouse Equipment — Sale Catalog",
-         "Forklifts (diesel / LPG / electric), electric pallet trucks, stackers, reach trucks, VNA trucks and towing tractors — Lonking, Zowell, Huaya, RY.",
+         "Offered by Milhurst Mills. Forklifts (diesel / LPG / electric), electric pallet trucks, stackers, reach trucks, VNA trucks and towing tractors — Lonking, Zowell, Huaya, RY.",
          "".join(body)))
 
 # ------------------------------------------------------------------ appliances
@@ -111,7 +112,7 @@ for grp, label in (("Luxury", "Luxury European Appliances — Gaggenau · Miele 
     body.append("</table>")
 (OUT / "appliances_catalog.html").write_text(
     page("Premium Appliance Inventory — Sale Catalog",
-         "New/unused surplus luxury and mainstream appliances at 45–55% off MSRP. Ideal for dealers, builders, kitchen contractors and multifamily projects.",
+         "Offered by Milhurst Mills. New/unused surplus luxury and mainstream appliances at 45–55% off MSRP. Ideal for dealers, builders, kitchen contractors and multifamily projects.",
          "".join(body)))
 
 print("catalogs written:", [p.name for p in OUT.glob("*.html")])

@@ -20,10 +20,15 @@ Preliminary work for the bulk sale of slab, equipment, appliance and furniture i
 - Recommended blend (30–45 days): **≈ $1.25M ceiling**
 - Slow/retail (60–90d+): ≈ $1.68M ceiling
 
+## Structure
+
+The inventory was sold in 2025 to **Milhurst Mills** (exact legal entity name to confirm); the principal markets and sells it as Milhurst's **authorized sales agent**. All catalogs, quotes and invoices issue in Milhurst's name; all proceeds go to Milhurst's account. Mining licenses (Ultima Ltd. Şti., Türkiye) are outside the Milhurst mandate.
+
 ## Before anything is offered or sold
 
-1. Bankruptcy counsel clearance per entity/asset class (Chapter 11 — In re Cakmak, 26-11521-VFP).
-2. Physical verification of quantities (equipment/furniture/Ausavina especially).
-3. Mining license fee status verification.
+1. Signed marketing/agency agreement with Milhurst (asset schedule + commission terms).
+2. Bankruptcy counsel clearance (Chapter 11 — In re Cakmak, 26-11521-VFP); agent compensation disclosed in MORs.
+3. Physical verification of quantities (equipment/furniture/Ausavina especially).
+4. Mining license fee status verification.
 
 Note: LibreOffice in this build environment cannot recalculate, so the workbook ships with formulas whose cached values are empty — Excel/Google Sheets computes them on open. Expected totals were independently verified in Python (see git history).

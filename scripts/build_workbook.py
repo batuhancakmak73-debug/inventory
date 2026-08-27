@@ -220,7 +220,7 @@ notes = [
     "Appliances: 'APPLIANCES (1) (1).xlsx' (cost+MSRP) + 'APPLIANCES_updated_retail_prices.xlsx' (verified retail) + Milhurst pricing pack (2026-06-13).",
     "Mining: 'ULTIMA_Arama_Projeleri_Sunum.pdf' (13-site Phase-1 report).",
     "ALL quantities are per the source files - physical verification required before binding offers.",
-    "LEGAL: No sale, transfer, or binding offer without clearance from bankruptcy counsel (Zazella & Singer) - see SALES_PLAN_30_DAYS.md, section 'Legal guardrails'.",
+    "LEGAL: Seller of record = Milhurst Mills (agency structure). No offer without signed agency agreement + counsel clearance (Zazella & Singer) - see SALES_PLAN_30_DAYS.md.",
 ]
 for n in notes:
     ws.append((n,))
@@ -272,10 +272,11 @@ for i in range(5, tr + 1):
     for col in "CDE":
         ws[f"{col}{i}"].number_format = MONEY
 ws.append([])
-ws.append(["LEGAL: Debtor is in Chapter 11 (In re Cakmak, 26-11521-VFP, D.N.J.). No sale/transfer/binding offer of any of these assets",])
-ws.append(["without prior clearance from bankruptcy counsel (Leonard S. Singer, Zazella & Singer). See SALES_PLAN_30_DAYS.md.",])
-ws[f"A{ws.max_row-1}"].font = Font(name=ARIAL, bold=True, color="C00000", size=10)
-ws[f"A{ws.max_row}"].font = Font(name=ARIAL, bold=True, color="C00000", size=10)
+ws.append(["LEGAL: Seller of record is Milhurst Mills (inventory sold to Milhurst in 2025); principal acts as its authorized sales agent. Principal is in Chapter 11",])
+ws.append(["(In re Cakmak, 26-11521-VFP, D.N.J.): signed agency agreement + counsel clearance (Zazella & Singer) required before any offer; all proceeds to Milhurst's account;",])
+ws.append(["agent compensation disclosed in MORs. Mining licenses are Ultima Ltd. Sti. property - NOT part of the Milhurst mandate. See SALES_PLAN_30_DAYS.md.",])
+for rr in (ws.max_row - 2, ws.max_row - 1, ws.max_row):
+    ws[f"A{rr}"].font = Font(name=ARIAL, bold=True, color="C00000", size=10)
 autofit(ws, [38, 10, 17, 15, 20, 52])
 
 # global font pass for data cells that kept default font
