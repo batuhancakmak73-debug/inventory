@@ -1,0 +1,23 @@
+Group,Item,SKU,Vendor,UnitCost,RetailRate,Qty,Notes
+TV Console,70in TV Console w/o Doors (Silver/Black/White),E0000-70,MODA MOBILYA,120,140-160,TBD,Physical count needed - Zoho stock shows 0
+TV Console,78in TV Console w/o Doors (all colors),E0000-78,MODA MOBILYA,130,175,TBD,Physical count needed
+TV Console,95in TV Console w/o Doors (all colors),E0000-95,MODA MOBILYA,138,186,TBD,Physical count needed
+TV Console,Haley 76in TV Console - White,E1671-76-lacq,MODA MOBILYA,151,210,TBD,
+TV Console,Haley TV Console w/ Dual LED - Treviso,E1671-76-a574,MODA MOBILYA,138,186,TBD,
+TV Console,Lilianna TV Console (Black/Silver),E4399-76,MODA MOBILYA,212,275,TBD,
+TV Console,Console w/ Dual LED (Black/Silver/White),E1847-66,MODA MOBILYA,172,230,TBD,
+Buffet,44in Buffet w/o Doors (all colors),D0000-44,MODA MOBILYA,90,120-125,TBD,
+Buffet,70in Buffet w/o Doors (all colors),D0000-70,MODA MOBILYA,100,141,TBD,
+Buffet,88in Buffet w/o Doors (Black/Silver),D0000-88,MODA MOBILYA,110,165,TBD,
+Door Sets,Set of 2 Doors (Adrianna/Ianna/Myra/Sherry/Giovanna variants),various,MODA MOBILYA,80-90,108-120,TBD,
+Door Sets,Set of 3 Doors - Stream (White w/ Gold or Silver),Stream-3dr,MODA MOBILYA,120,177,TBD,
+Mattress,Bodrum Queen - Mattress Tailor Cotton 2000,MT-QN-COTTON 2000,ISKECELI,400,1350,TBD,
+Mattress,Bodrum King - Mattress Tailor Cotton 2000,MT-KN-COTTON 2000,ISKECELI,450,1650,TBD,
+Mattress,Ibiza Queen - Mattress Tailor Linen 2000 WP,MT-QN-LINEN 2000 WP,ISKECELI,570,1650,TBD,
+Mattress,Ibiza King - Mattress Tailor Linen 2000 WP,MT-KN-LINEN 2000 WP,ISKECELI,660,1950,TBD,
+Mattress,Aruba Queen - Mattress Tailor Wool 3500,MT-QN-WOOL 3500,ISKECELI,600,1850,TBD,
+Mattress,Aruba King - Mattress Tailor Wool 3500,MT-KN-WOOL 3500,ISKECELI,665,2150,TBD,
+Mattress,Santorini Queen - Mattress Tailor Linen 4500,MT-QN-LINEN 4500,ISKECELI,,,TBD,
+Display,Display PAC,,XIAMEN BOYA,100,,19,Stock per 2024 Zoho export
+Display,Metal Display Tower,,FOSHAN SHUNGZUN,112.23,,75,Stock per 2024 Zoho export
+Display,Display Stand with LED Light,,FOSHAN SHUNGZUN,87.75,,75,Stock per 2024 Zoho export
